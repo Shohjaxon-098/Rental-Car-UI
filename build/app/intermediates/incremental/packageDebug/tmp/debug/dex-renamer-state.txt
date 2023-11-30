@@ -1,0 +1,4 @@
+#Thu Nov 30 21:47:18 UZT 2023
+base.0=D\:\\Dart va Flutter\\Flutter\\RentaX-UI-Flutter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

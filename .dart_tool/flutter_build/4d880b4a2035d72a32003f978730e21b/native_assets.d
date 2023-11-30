@@ -1,0 +1,1 @@
+ D:\\Dart\ va\ Flutter\\Flutter\\RentaX-UI-Flutter-main\\.dart_tool\\flutter_build\\4d880b4a2035d72a32003f978730e21b\\native_assets.yaml: 
